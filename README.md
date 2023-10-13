@@ -39,3 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - [`React Simple Typewriter`](https://www.npmjs.com/package/react-simple-typewriter)
 - [`Lottie Web`](https://www.npmjs.com/package/lottie-web)
+
+## Next-Sanity
+
+Learn Sanity and access it as a database for production [Sanity] (https://www.sanity.io/docs)
