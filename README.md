@@ -42,4 +42,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Next-Sanity
 
-Learn Sanity and access it as a database for production [Sanity] (https://www.sanity.io/docs)
+Learn Sanity and access it as a database for production [Sanity](https://www.sanity.io/docs)
